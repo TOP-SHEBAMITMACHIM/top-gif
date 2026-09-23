@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T11:43:48.381Z",
+  "updated": "2026-09-23T12:05:29.456Z",
   "categories": [
     {
       "value": "",
@@ -20,6 +20,10 @@
     {
       "value": "שמחות",
       "label": "שמחות"
+    },
+    {
+      "value": "שממחות",
+      "label": "שממחות"
     }
   ],
   "byCategory": {
@@ -234,6 +238,14 @@
         "name": "מזל-טוב",
         "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C-%D7%98%D7%95%D7%91.gif",
         "path": "gif/שמחות/מזל-טוב.gif",
+        "tags": []
+      }
+    ],
+    "שממחות": [
+      {
+        "name": "לב פועם",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%9E%D7%97%D7%95%D7%AA/%D7%9C%D7%91%20%D7%A4%D7%95%D7%A2%D7%9D.gif",
+        "path": "gif/שממחות/לב פועם.gif",
         "tags": []
       }
     ]
