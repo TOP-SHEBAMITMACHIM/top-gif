@@ -1,0 +1,241 @@
+{
+  "updated": "2026-09-23T11:40:50.398Z",
+  "categories": [
+    {
+      "value": "",
+      "label": "כללי"
+    },
+    {
+      "value": "חגים",
+      "label": "חגים"
+    },
+    {
+      "value": "מצחיק",
+      "label": "מצחיק"
+    },
+    {
+      "value": "סמיילי ואייקונים 😊",
+      "label": "סמיילי ואייקונים 😊"
+    },
+    {
+      "value": "שמחות",
+      "label": "שמחות"
+    }
+  ],
+  "byCategory": {
+    "": [
+      {
+        "name": "בטלן",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%91%D7%98%D7%9C%D7%9F.gif",
+        "path": "gif/בטלן.gif",
+        "tags": []
+      },
+      {
+        "name": "חושב",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%97%D7%95%D7%A9%D7%91.gif",
+        "path": "gif/חושב.gif",
+        "tags": []
+      },
+      {
+        "name": "תודה",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%AA%D7%95%D7%93%D7%94.gif",
+        "path": "gif/תודה.gif",
+        "tags": []
+      },
+      {
+        "name": "תרגיעו",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%AA%D7%A8%D7%92%D7%99%D7%A2%D7%95.gif",
+        "path": "gif/תרגיעו.gif",
+        "tags": []
+      }
+    ],
+    "חגים": [
+      {
+        "name": "שנה-טובה-gif-1",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%97%D7%92%D7%99%D7%9D/%D7%A9%D7%A0%D7%94-%D7%98%D7%95%D7%91%D7%94-gif-1.gif",
+        "path": "gif/חגים/שנה-טובה-gif-1.gif",
+        "tags": []
+      }
+    ],
+    "מצחיק": [
+      {
+        "name": " חתול מקליד",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%9E%D7%A6%D7%97%D7%99%D7%A7/%20%D7%97%D7%AA%D7%95%D7%9C%20%D7%9E%D7%A7%D7%9C%D7%99%D7%93.gif",
+        "path": "gif/מצחיק/ חתול מקליד.gif",
+        "tags": []
+      }
+    ],
+    "סמיילי ואייקונים 😊": [
+      {
+        "name": "בוכה מצחוק",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%91%D7%95%D7%9B%D7%94%20%D7%9E%D7%A6%D7%97%D7%95%D7%A7.gif",
+        "path": "gif/סמיילי ואייקונים 😊/בוכה מצחוק.gif",
+        "tags": []
+      },
+      {
+        "name": "בוכה",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%91%D7%95%D7%9B%D7%94.gif",
+        "path": "gif/סמיילי ואייקונים 😊/בוכה.gif",
+        "tags": []
+      },
+      {
+        "name": "ביי",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%91%D7%99%D7%99.gif",
+        "path": "gif/סמיילי ואייקונים 😊/ביי.gif",
+        "tags": []
+      },
+      {
+        "name": "בכי",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%91%D7%9B%D7%99.gif",
+        "path": "gif/סמיילי ואייקונים 😊/בכי.gif",
+        "tags": []
+      },
+      {
+        "name": "גוד",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%92%D7%95%D7%93.gif",
+        "path": "gif/סמיילי ואייקונים 😊/גוד.gif",
+        "tags": []
+      },
+      {
+        "name": "הצדעה",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%94%D7%A6%D7%93%D7%A2%D7%94.gif",
+        "path": "gif/סמיילי ואייקונים 😊/הצדעה.gif",
+        "tags": []
+      },
+      {
+        "name": "ישן",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%99%D7%A9%D7%9F.gif",
+        "path": "gif/סמיילי ואייקונים 😊/ישן.gif",
+        "tags": []
+      },
+      {
+        "name": "כפיים",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%9B%D7%A4%D7%99%D7%99%D7%9D.gif",
+        "path": "gif/סמיילי ואייקונים 😊/כפיים.gif",
+        "tags": []
+      },
+      {
+        "name": "לא לא לא",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%9C%D7%90%20%D7%9C%D7%90%20%D7%9C%D7%90.gif",
+        "path": "gif/סמיילי ואייקונים 😊/לא לא לא.gif",
+        "tags": []
+      },
+      {
+        "name": "מהנהן",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%9E%D7%94%D7%A0%D7%94%D7%9F.gif",
+        "path": "gif/סמיילי ואייקונים 😊/מהנהן.gif",
+        "tags": []
+      },
+      {
+        "name": "מסמיק",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%9E%D7%A1%D7%9E%D7%99%D7%A7.gif",
+        "path": "gif/סמיילי ואייקונים 😊/מסמיק.gif",
+        "tags": []
+      },
+      {
+        "name": "מפהק",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%9E%D7%A4%D7%94%D7%A7.gif",
+        "path": "gif/סמיילי ואייקונים 😊/מפהק.gif",
+        "tags": []
+      },
+      {
+        "name": "מתגלגל מצחוק",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%9E%D7%AA%D7%92%D7%9C%D7%92%D7%9C%20%D7%9E%D7%A6%D7%97%D7%95%D7%A7.gif",
+        "path": "gif/סמיילי ואייקונים 😊/מתגלגל מצחוק.gif",
+        "tags": []
+      },
+      {
+        "name": "מתכנת מקליד",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%9E%D7%AA%D7%9B%D7%A0%D7%AA%20%D7%9E%D7%A7%D7%9C%D7%99%D7%93.gif",
+        "path": "gif/סמיילי ואייקונים 😊/מתכנת מקליד.gif",
+        "tags": []
+      },
+      {
+        "name": "קונפטי",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%A7%D7%95%D7%A0%D7%A4%D7%98%D7%99.gif",
+        "path": "gif/סמיילי ואייקונים 😊/קונפטי.gif",
+        "tags": []
+      },
+      {
+        "name": "קריצה",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%A7%D7%A8%D7%99%D7%A6%D7%94.gif",
+        "path": "gif/סמיילי ואייקונים 😊/קריצה.gif",
+        "tags": []
+      },
+      {
+        "name": "קריצת קוף",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A1%D7%9E%D7%99%D7%99%D7%9C%D7%99%20%D7%95%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D%20%F0%9F%98%8A/%D7%A7%D7%A8%D7%99%D7%A6%D7%AA%20%D7%A7%D7%95%D7%A3.gif",
+        "path": "gif/סמיילי ואייקונים 😊/קריצת קוף.gif",
+        "tags": []
+      }
+    ],
+    "שמחות": [
+      {
+        "name": "בשורות טובות",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%91%D7%A9%D7%95%D7%A8%D7%95%D7%AA%20%D7%98%D7%95%D7%91%D7%95%D7%AA.gif",
+        "path": "gif/שמחות/בשורות טובות.gif",
+        "tags": []
+      },
+      {
+        "name": "מזל טוב לארוסין",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C%20%D7%98%D7%95%D7%91%20%D7%9C%D7%90%D7%A8%D7%95%D7%A1%D7%99%D7%9F.gif",
+        "path": "gif/שמחות/מזל טוב לארוסין.gif",
+        "tags": []
+      },
+      {
+        "name": "מזל טוב לבר מצוה",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C%20%D7%98%D7%95%D7%91%20%D7%9C%D7%91%D7%A8%20%D7%9E%D7%A6%D7%95%D7%94.gif",
+        "path": "gif/שמחות/מזל טוב לבר מצוה.gif",
+        "tags": []
+      },
+      {
+        "name": "מזל טוב לבת מצוה",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C%20%D7%98%D7%95%D7%91%20%D7%9C%D7%91%D7%AA%20%D7%9E%D7%A6%D7%95%D7%94.gif",
+        "path": "gif/שמחות/מזל טוב לבת מצוה.gif",
+        "tags": []
+      },
+      {
+        "name": "מזל טוב להולדת הבן",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C%20%D7%98%D7%95%D7%91%20%D7%9C%D7%94%D7%95%D7%9C%D7%93%D7%AA%20%D7%94%D7%91%D7%9F.gif",
+        "path": "gif/שמחות/מזל טוב להולדת הבן.gif",
+        "tags": []
+      },
+      {
+        "name": "מזל טוב להולדת הבת",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C%20%D7%98%D7%95%D7%91%20%D7%9C%D7%94%D7%95%D7%9C%D7%93%D7%AA%20%D7%94%D7%91%D7%AA.gif",
+        "path": "gif/שמחות/מזל טוב להולדת הבת.gif",
+        "tags": []
+      },
+      {
+        "name": "מזל טוב לחלאקה",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C%20%D7%98%D7%95%D7%91%20%D7%9C%D7%97%D7%9C%D7%90%D7%A7%D7%94.gif",
+        "path": "gif/שמחות/מזל טוב לחלאקה.gif",
+        "tags": []
+      },
+      {
+        "name": "מזל טוב לחתונה",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C%20%D7%98%D7%95%D7%91%20%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94.gif",
+        "path": "gif/שמחות/מזל טוב לחתונה.gif",
+        "tags": []
+      },
+      {
+        "name": "מזל טוב ליום הולדת",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C%20%D7%98%D7%95%D7%91%20%D7%9C%D7%99%D7%95%D7%9D%20%D7%94%D7%95%D7%9C%D7%93%D7%AA.gif",
+        "path": "gif/שמחות/מזל טוב ליום הולדת.gif",
+        "tags": []
+      },
+      {
+        "name": "מזל טוב קונפטי ובלונים",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C%20%D7%98%D7%95%D7%91%20%D7%A7%D7%95%D7%A0%D7%A4%D7%98%D7%99%20%D7%95%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D.gif",
+        "path": "gif/שמחות/מזל טוב קונפטי ובלונים.gif",
+        "tags": []
+      },
+      {
+        "name": "מזל-טוב",
+        "url": "https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/top-gif/main/gif/%D7%A9%D7%9E%D7%97%D7%95%D7%AA/%D7%9E%D7%96%D7%9C-%D7%98%D7%95%D7%91.gif",
+        "path": "gif/שמחות/מזל-טוב.gif",
+        "tags": []
+      }
+    ]
+  }
+}
