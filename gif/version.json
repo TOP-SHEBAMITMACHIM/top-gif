@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
-  "downloadUrl": "https://github.com/TOP-SHEBAMITMACHIM/top-gif/releases/download/1.5.1/gif-picker-extension.zip",
-  "message": "גרסה 1.5.1 באוויר! נוספה אפשרות לפתיחה על ידי כתור האימוג'י המובנה בצ'אט נוסף פס גלילה בקטגוריות ועוד שיפורים ותיקוני באגים."
+  "version": "1.7.0",
+  "downloadUrl": "https://github.com/TOP-SHEBAMITMACHIM/top-gif/releases/download/1.7.0/gif-picker-extension.zip",
+  "message": "גרסה 1.7.0 באוויר! רשימת הגיפים עוברת לקטלוג מהיר בלי הגבלת API (כולל תמיכה במשתמשים רבים על אותה רשת), שיפורי מהירות טעינה, ותיקוני הדבקה וכפילויות."
 }
