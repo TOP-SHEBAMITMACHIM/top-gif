@@ -1,0 +1,44 @@
+name: Build catalog
+
+# כל push ל-main שמשנה גיפים/תגיות מייצר מחדש את gifs.json.
+# gifs.json עצמו מוצא מחוץ לפילטר + [skip ci] - בלי לולאה אינסופית.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "gif/**"
+      - "tags.json"
+      - ".github/build-catalog.js"
+      - ".github/workflows/catalog.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-catalog
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: בניית הקטלוג
+        run: node .github/build-catalog.js
+
+      - name: commit ו-push
+        run: |
+          git config user.name "catalog-bot"
+          git config user.email "actions@github.com"
+          git add gifs.json
+          if git diff --cached --quiet; then
+            echo "אין שינויים בקטלוג"
+          else
+            git commit -m "עדכון קטלוג gifs.json [skip ci]"
+            git push
+          fi
